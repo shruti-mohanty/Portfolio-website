@@ -13,5 +13,5 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 
-This is teh live link of my portfolio:
+This is the live link of my portfolio:
 portfolio-website-urnx-git-main-shruti-mohantys-projects.vercel.app
