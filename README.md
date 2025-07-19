@@ -1,17 +1,36 @@
-# React + Vite
+🧑‍💻 Shruti Mohanty's Portfolio Website
+Welcome to my personal portfolio website built with React!
+This site showcases my skills, projects, education, and contact information. It's designed to be clean, responsive, and easy to navigate.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Live Demo
+👉 portfolio-website-urnx.vercel.app
 
-Currently, two official plugins are available:
+📌 Features
+Smooth scroll navigation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Typing effect using react-simple-typewriter
 
-## Expanding the ESLint configuration
+Responsive design (mobile-first)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Animated profile image with react-parallax-tilt
+
+Contact form with working email integration using EmailJS
+
+Toast notifications with react-toastify
+
+🛠️ Tech Stack
+React (Vite)
+
+Tailwind CSS – For styling
+
+EmailJS – Contact form backend
+
+React Toastify – Notifications
+
+React Icons – Icon library
+
+React Parallax Tilt – Profile image animation
 
 
 
-This is the live link of my portfolio:
-portfolio-website-urnx-git-main-shruti-mohantys-projects.vercel.app
+
